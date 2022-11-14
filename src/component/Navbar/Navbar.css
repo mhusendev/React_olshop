@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+body {
+    background-color: #f2f3f8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 13px;
+}
+
+.bg-blue-light {
+    background-color: #236cdf;
+}
+
+.mini-menu-top {
+    font-size: 11px;
+    color: white;
+    background-color: #2064cf;
+    /* background: linear-gradient(to right, #2064cf, #2458ac, #2064cf); */
+    padding: 5px;
+}
+
+.navbar-brand.logo {
+    font-size: 23px;
+    font-weight: 600;
+}
+
+.menu-shopping,
+.menu-shopping a {
+    color: #fff;
+    font-weight: normal;
+    text-decoration: none;
+
+}
+
+.menu-shopping i {
+    font-size: 17px;
+    display: inline;
+    margin-right: 5px;
+}
+#form_search {
+    background-color: #236cdf!important;
+    border: 0px solid !important;
+}
+.btn-info-cart{
+    width: 80px!important;
+}
